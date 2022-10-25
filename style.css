@@ -1,0 +1,19 @@
+
+.header {
+    height: 200px;
+    background-color: darkorange;
+    display: flex;
+} 
+
+.content {
+    margin: 100px;
+    background-color: ivory;
+}
+
+.footer {
+    height: 200px;
+    background-color: darkorange;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
